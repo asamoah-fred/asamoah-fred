@@ -35,3 +35,4 @@ Ask me anything about...
 - 🤔 I’m looking for help with JavaScript, HTML, MySQL Database, React Native and CSS.
 - 📫 How to reach me: quame_phrimpong on twitter.
 - 📫 How to reach me: asamoahgodfred42@gmail.com on gmail.
+- - 📫 How to reach me: asamoah-godfred on linkedIn
