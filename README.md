@@ -17,10 +17,14 @@ Ask me anything about...
 
 
 #### Currently learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![css](https://user-images.githubusercontent.com/96062970/228204187-cc59da2a-e5ed-4844-8c96-0376faca132f.png)  ![html](https://user-images.githubusercontent.com/96062970/228204244-0938d578-eab4-4763-8946-4b671d98adbb.png) ![mysql](https://user-images.githubusercontent.com/96062970/228204276-863e8db7-f05c-46d3-8295-88ab0fd7d37a.png)
+
+
+
+
+
+
+
 
 #### Tools and Frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
