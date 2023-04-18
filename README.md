@@ -6,6 +6,8 @@
 I am a Software Engineer with experience in Mobile Application Development and API Integration. I have significant experience working in startups and fast-moving teams with fixed deadlines. I am very flexible with different technologies and methodologies, and so I am able to learn and adapt to new environments quickly.
 <br>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 Ask me anything about...
 
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
